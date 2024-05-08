@@ -13,6 +13,10 @@ You can head over to our [discord server](discord.gg/toriclient) and open a tick
 ### What if I just want to resolve a general issue privately?
 You can open a ticket in our [discord server](discord.gg/toriclient), however we highly recommend you open an issue here so that other people that might encounter the same issue can have an idea on what to do. If you think your issue is rare and can't happen to anyone else, you'd be surprised.
 
+### Are third-party cape mods supported?
+Third-party cape mods are unfortunately **not supported** at the moment. Clients with cosmetics such as Essentials should work fine however.
+#### If your game keeps crashing after you added your own mods, check to make sure you don't have a custom capes mod installed!
+
 ### How SHOULDN'T I submit an issue?
 There is a very nice issue template available for you to use that will give us all the information we need in an organized matter.
 
@@ -20,7 +24,7 @@ Things like...
 * `Help, it doesn't work!`
 * `Something didn't work correctly, please fix!`
 * `My mods aren't working.`
-* `My game keeps crashing`
+* `My game keeps crashing!`
 
 ...are generally not good ways to report an issue as it provides us with no information or context to help us resolve it.
 
@@ -34,9 +38,7 @@ Clicking that button should give you a 5 character random ID in a little message
 ![image](https://github.com/WifiRouterYT/Tori-Client-Bug-Tracker/assets/45213292/e1b53970-6731-48e2-8c1c-14520f5b5acc)
 
 Simply copy this ID and add it to your issue report to help us resolve any possible issues you may have with the launcher or game.
-
-If you can't log in or use the launcher properly, here's how to find the log file manually.
-
+#### If you can't log in or use the launcher properly, here's how to find the log file manually.
 The ToriLauncher log file shares the same file name, `launcher.log`, across every platform, but the folder it's in varies depending on your operating system.
 #### Windows
 Open up the Run box `Windows Key + R` and paste in `%localappdata%\torilauncher\`
