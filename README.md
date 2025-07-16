@@ -29,7 +29,7 @@ Things like...
 ...are generally not good ways to report an issue as it provides us with no information or context to help us resolve it.
 
 ### Where can I find the Tori Launcher log file?
-You can find more up-to-date and clearer instructions [here](https://help.toriclient.com/books/launcher-guides/page/obtaining-launcher-logs)!
+⚠️ You can find more up-to-date and clearer instructions [here](https://help.toriclient.com/books/launcher-guides/page/obtaining-launcher-logs)! ⚠️
 
 If you are able to login and access the launcher, the easiest way to send us the log file is to go to the Settings tab, and click `Upload`. This will find and send us the log file automatically.
 
