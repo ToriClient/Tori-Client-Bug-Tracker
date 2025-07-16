@@ -1,5 +1,5 @@
 # Official Tori Client Bug Tracker
-Found something that isn't supposed to happen or want to request something be done differently, or even request something completely new?! You're in the right place! Head on over to the Issues tab and let us know what's on your mind, and we'll get back to you as soon as we can!
+Found something that isn't supposed to happen or want to request something be done differently, or even request something completely new?! You're in the right place! Head on over to the Issues tab and let us know what's going on, and we'll get back to you as soon as we can!
 
 **NOTE:** We will not address your issue or request if you don't give any details. See the FAQ for examples of issues we'll ignore. [Here's a good article on how to write a good report.](https://sifterapp.com/blog/2012/08/tips-for-effectively-reporting-bugs-and-issues/)
 
@@ -8,7 +8,7 @@ Found something that isn't supposed to happen or want to request something be do
 You can head over to our [discord server](discord.gg/toriclient) and either ask in the questions channel, or open a ticket.
 
 ### What if I find a severe security vurnerability that I want to be addressed privately?
-You can head over to our [discord server](discord.gg/toriclient) and open a ticket there so our staff team can review it privately.
+You can head over to our [discord server](discord.gg/toriclient) and open a ticket there so our staff team can review it privately, or email us at support@toriclient.com.
 
 ### What if I just want to resolve a general issue privately?
 You can open a ticket in our [discord server](discord.gg/toriclient), however we highly recommend you open an issue here so that other people that might encounter the same issue can have an idea on what to do. If you think your issue is rare and can't happen to anyone else, you'd be surprised.
@@ -29,6 +29,8 @@ Things like...
 ...are generally not good ways to report an issue as it provides us with no information or context to help us resolve it.
 
 ### Where can I find the Tori Launcher log file?
+You can find more up-to-date and clearer instructions [here](https://help.toriclient.com/books/launcher-guides/page/obtaining-launcher-logs)!
+
 If you are able to login and access the launcher, the easiest way to send us the log file is to go to the Settings tab, and click `Upload`. This will find and send us the log file automatically.
 
 ![image](https://github.com/WifiRouterYT/Tori-Client-Bug-Tracker/assets/45213292/afd02e31-008c-4ffe-b2f2-4a78bae5916e)
