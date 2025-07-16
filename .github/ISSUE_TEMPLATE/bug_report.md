@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve Tori!
 title: "[BUG]"
 labels: ''
 assignees: WifiRouterYT
@@ -26,6 +26,4 @@ What operating system did you experience this under? (ex. Windows 10, Windows 11
 Add any other context about the problem here.
 
 **Log file ID:**
-If this is a launcher related issue, if you can, go to Settings in your launcher, click Upload, and paste the ID here. If you can't, go to where ToriLauncher is installed (see below for where to look), chose the latest "app-x.x.x" folder, and upload the file called "launcher.log" in there. If this isn't a ToriLaucher related problem, feel free to ignore this or remove it.
-Tori Launcher installation paths:
-* **Windows:** `%localappdata%\torilauncher\`
+If this is a launcher related issue, see [these instructions](https://help.toriclient.com/books/launcher-guides/page/obtaining-launcher-logs) on how to upload a log and generate a unique log ID to paste here.
