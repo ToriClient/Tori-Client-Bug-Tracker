@@ -22,8 +22,11 @@ If applicable, add screenshots to help explain your problem.
 **Operating System:**
 What operating system did you experience this under? (ex. Windows 10, Windows 11, MacOS)
 
-**Additional context**
-Add any other context about the problem here.
-
 **Log file ID:**
 If this is a launcher related issue, see [these instructions](https://help.toriclient.com/books/launcher-guides/page/obtaining-launcher-logs) on how to upload a log and generate a unique log ID to paste here.
+
+**Computer Specs:** (OPTIONAL)
+If this is a performance issue or something that may be tied to your computer hardware, please list your computer specifications here.
+
+**Additional context**
+Add any other context about the problem here.
